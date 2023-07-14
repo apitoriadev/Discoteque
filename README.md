@@ -129,7 +129,7 @@ Para iniciar el bootcamp los siguientes programas y servicios deben estar instal
 
 #### Día 5 - Sábado 12 de agosto (el 5 de agosto es puente, por lo tanto no habrá actividades este día)
 
-- Hacer búsquedas con Linq. 
+- Hacer búsquedas con Linq.  
 
 - Colecciones y listas.
 
