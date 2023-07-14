@@ -23,4 +23,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Discoteque.Data\Discoteque.Data.csproj" />
+    <ProjectReference Include="..\Discoteque.Business\Discoteque.Business.csproj" />
+  </ItemGroup>
+
 </Project>
